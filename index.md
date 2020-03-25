@@ -5,7 +5,7 @@ So many of my small projects have been lost before and I have decided that I may
 * [Add a python macro to you Libre Office Calc file](https://github.com/Obsnold/LibreCalcPythonScripting)
 
 ## Code Projects
-* [Basic C# Roguelike](https://github.com/Obsnold/Basic_Roguelike)
+* [Simple C# Roguelike](https://github.com/Obsnold/Simple_Roguelike)
 * [STM32F429I-DISC1 Buildroot](https://github.com/Obsnold/STM32F429I-DISC1_Buildroot)
 
 ## Misc Projects

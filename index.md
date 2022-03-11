@@ -1,5 +1,4 @@
-This site is just here to encourage me to put up my projects even if they are in an unfinished state.
-So many of my small projects have been lost before and I have decided that I may as well put them online for all to see rather than lose them completely.
+This site is just here to encourage me to put up my projects even if they are in an unfinished state.  
 
 ## Tutorials
 * [Add a python macro to you Libre Office Calc file](https://github.com/Obsnold/LibreCalcPythonScripting)

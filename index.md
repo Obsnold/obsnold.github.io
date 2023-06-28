@@ -1,4 +1,5 @@
 This site is just here to encourage me to put up my projects even if they are in an unfinished state.  
+The projects here are not representative of my professional work, most were written in a half awake daze while my children slept.
 
 ## Tutorials
 * [Add a python macro to you Libre Office Calc file](https://github.com/Obsnold/LibreCalcPythonScripting)
